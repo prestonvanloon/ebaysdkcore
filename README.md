@@ -11,10 +11,6 @@ Add this repo as a repository to your pom file
     <repository>
         <id>ebaysdkcore-repo</id>
         <url>https://raw.github.com/prestonvanloon/ebaysdkcore/mvn-repo/</url>
-        <snapshots>
-            <enabled>true</enabled>
-            <updatePolicy>always</updatePolicy>
-        </snapshots>
     </repository>
 </repositories>
 ```
