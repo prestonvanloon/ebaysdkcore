@@ -25,6 +25,15 @@
   </properties>
 
   <build>
+    <resources>
+      <resource>
+        <directory>src/main/resources</directory>
+        <includes>
+          <include>**/*.wsdl</include>
+        </includes>
+      </resource>
+    </resources>
+
     <plugins>
 
       <plugin>
