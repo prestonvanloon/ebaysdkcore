@@ -90,7 +90,7 @@
                 </taskdef>
 
                 <echo message="Starting wsimport"/>
-                <wsimport debug="false" package="com.ebay.soap.eBLBaseComponents" quiet="true" sourcedestdir="src/main/java" target="2.1" verbose="true" wsdllocation="resources/eBaySvc.wsdl" wsdl="src/main/resources/eBaySvc.wsdl" xnocompile="true">
+                <wsimport debug="false" package="com.ebay.soap.eBLBaseComponents" quiet="true" sourcedestdir="src/main/java" target="2.1" verbose="true" wsdllocation="eBaySvc.wsdl" wsdl="src/main/resources/eBaySvc.wsdl" xnocompile="true">
                   <binding dir="${basedir}" includes="custom-binding.xml,jaxb-binding.xjb"/>
                 </wsimport>
               </tasks>
