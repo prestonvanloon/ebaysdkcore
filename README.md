@@ -1,7 +1,7 @@
 # ebaysdkcore
 eBay SDK for java
 
-Current version: 939
+Current version: 943
 
 ### Maven
 
