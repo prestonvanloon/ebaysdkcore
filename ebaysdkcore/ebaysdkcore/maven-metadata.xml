@@ -3,10 +3,10 @@
   <groupId>ebaysdkcore</groupId>
   <artifactId>ebaysdkcore</artifactId>
   <versioning>
-    <release>939</release>
+    <release>941</release>
     <versions>
-      <version>939</version>
+      <version>941</version>
     </versions>
-    <lastUpdated>20151007201004</lastUpdated>
+    <lastUpdated>20151020133911</lastUpdated>
   </versioning>
 </metadata>
