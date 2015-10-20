@@ -4,7 +4,7 @@
 
   <groupId>ebaysdkcore</groupId>
   <artifactId>ebaysdkcore</artifactId>
-  <version>941</version>
+  <version>943</version>
   <packaging>jar</packaging>
 
   <name>ebaysdkcore</name>
