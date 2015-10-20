@@ -47,6 +47,7 @@
         <configuration>
           <message>Maven artifacts for ${project.version}</message>
           <noJekyll>true</noJekyll>
+          <merge>true</merge>
           <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
           <branch>refs/heads/mvn-repo</branch>
           <includes>
