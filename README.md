@@ -21,7 +21,7 @@ Then add the dependency to your project
 <dependency>
     <groupId>ebaysdkcore</groupId>
     <artifactId>ebaysdkcore</artifactId>
-    <version>939</version>
+    <version>943</version>
 </dependency>
 ```
 
